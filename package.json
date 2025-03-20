@@ -1,0 +1,22 @@
+{
+  "author": "Vi (8f00ff) <8f00ff@proton.me> (https://github.com/8f00ff)",
+  "bin": "bin/cli.js",
+  "bugs": {
+    "url": "https://github.com/8f00ff/cardelier/issues"
+  },
+  "dependencies": {
+    "papaparse": "^5.5.2",
+    "ejs": "^3.1.10",
+    "js-yaml": "^4.1.0",
+    "puppeteer": "^24.4.0",
+    "yargs": "^17.7.2"
+  },
+  "description": "A command-line tool that generates cards from HTML/CSS+EJS layouts and CSV/JSON/YML data, outputting to PNG and/or PDF formats",
+  "homepage": "https://github.com/8f00ff/cardelier",
+  "license": "LGPL-3.0-or-later",
+  "main": "bin/cli.js",
+  "name": "cardelier",
+  "repository": "github:8f00ff/cardelier",
+  "type": "module",
+  "version": "1.0.0"
+}
