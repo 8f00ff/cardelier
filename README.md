@@ -82,7 +82,7 @@ Puppeteer requires Chrome/Chromium to be installed. On some systems, you may nee
 
 [![GitHub Tag](https://img.shields.io/github/v/tag/8f00ff/cardelier)](https://github.com/8f00ff/cardelier/tags)
 [![GitHub Release](https://img.shields.io/github/v/release/8f00ff/cardelier)](https://github.com/8f00ff/cardelier/releases)
-<!-- TODO NPM -->
+[![NPM Version](https://img.shields.io/npm/v/cardelier)](https://www.npmjs.com/package/cardelier)
 
 See the [CHANGELOG.md](CHANGELOG.md) file for a detailed list of changes.
 
